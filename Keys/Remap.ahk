@@ -1,0 +1,2 @@
+RShift::Up
+Up::RShift

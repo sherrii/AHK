@@ -1,0 +1,5 @@
+_Others/
+Helpers/
+*.sublime-workspace
+*.sublime-project
+Strings/contact.ahk
