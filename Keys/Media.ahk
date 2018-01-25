@@ -3,7 +3,7 @@
 
 	; Play/Pause
 	Media_Play_Pause::
-	    ControlSend, , Space, ahk_class mpv
+	    ControlSend, , p, ahk_class mpv
 	return
 
 	; Stop
